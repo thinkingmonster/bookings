@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/alexedwards/scs/v2"
-	"github.com/thinkingmonster/hello-world/pkg/config"
-	"github.com/thinkingmonster/hello-world/pkg/handlers"
-	"github.com/thinkingmonster/hello-world/pkg/render"
+	"github.com/thinkingmonster/bookings/pkg/config"
+	"github.com/thinkingmonster/bookings/pkg/handlers"
+	"github.com/thinkingmonster/bookings/pkg/render"
 	"log"
 	"net/http"
 	"time"

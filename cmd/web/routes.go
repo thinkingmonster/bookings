@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/thinkingmonster/hello-world/pkg/config"
-	"github.com/thinkingmonster/hello-world/pkg/handlers"
+	"github.com/thinkingmonster/bookings/pkg/config"
+	"github.com/thinkingmonster/bookings/pkg/handlers"
 	"net/http"
 )
 
